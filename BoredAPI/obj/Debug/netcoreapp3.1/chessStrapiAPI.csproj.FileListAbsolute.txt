@@ -1,0 +1,16 @@
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.exe
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.deps.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.runtimeconfig.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.runtimeconfig.dev.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\chessStrapiAPI.pdb
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.csproj.AssemblyReference.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.AssemblyInfoInputs.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.AssemblyInfo.cs
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.csproj.CoreCompileInputs.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.csproj.CopyComplete
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.pdb
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\chessStrapiAPI.genruntimeconfig.cache

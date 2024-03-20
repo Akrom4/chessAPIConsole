@@ -1,0 +1,16 @@
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.exe
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.deps.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.runtimeconfig.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.runtimeconfig.dev.json
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\BoredAPI.pdb
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.csproj.AssemblyReference.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.AssemblyInfoInputs.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.AssemblyInfo.cs
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.csproj.CoreCompileInputs.cache
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.csproj.CopyComplete
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.dll
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.pdb
+C:\Users\fchap\Desktop\CSI\C#\BoredAPI\BoredAPI\obj\Debug\netcoreapp3.1\BoredAPI.genruntimeconfig.cache
